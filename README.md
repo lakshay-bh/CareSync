@@ -1,5 +1,5 @@
 # CareSync
-#The project comprises several microservices, each encapsulating specific business functionalities:​
+The project comprises several microservices, each encapsulating specific business functionalities:​
 
 Patient Service: Manages patient-related data and operations.​
 
